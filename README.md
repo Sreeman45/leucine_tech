@@ -19,7 +19,7 @@ add your api key:
 
 cd .. (or) come to the root of the project and 'npm run dev'
 open http://localhost:5173/ it would be live here
-![App Screenshot](images/landing.png)
-![App Screenshot](images/slack.png)
+![App Screenshot](./images/landing.png)
+![App Screenshot](./images/slack.png)
 
  
